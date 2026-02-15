@@ -15,8 +15,17 @@ España 🇪🇸 | Abierto a empleo y freelance
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador frontend con nivel medio, enfocado en crear interfaces modernas, limpias y eficientes.  
+Desarrollador frontend especializado en arquitectura escalable, rendimiento y diseño minimalista orientado a producto, enfocado en crear interfaces modernas, limpias y eficientes.  
 Me apasiona combinar **diseño minimalista, arquitectura sólida y rendimiento optimizado** para construir experiencias digitales de alta calidad.
+
+## 🎯 ¿Qué puedo aportar a tu equipo?
+
+- Desarrollo de interfaces modernas y escalables
+- Optimización de rendimiento y buenas prácticas
+- Código limpio y estructurado
+- Colaboración fluida con diseño y backend
+- Enfoque en experiencia de usuario real
+
 
 Trabajo con una mentalidad orientada a:
 
